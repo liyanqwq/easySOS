@@ -1,0 +1,14 @@
+{
+    "name": "liyanqwq/easysos",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "liyanqwq",
+            "email": "liyanqwq@duianit.cn"
+        }
+    ]
+}
